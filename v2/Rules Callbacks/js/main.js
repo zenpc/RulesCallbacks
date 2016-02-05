@@ -2,7 +2,6 @@
  * Variables Globales
  */
 
-
 var rules = {
     NoAnswer: { type: 0, param: null, name: "No Answer" },
     Disturbed: { type: 0, param: null, name: "Disturbed" },
