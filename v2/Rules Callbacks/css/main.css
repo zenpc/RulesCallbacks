@@ -1,0 +1,96 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.btn {
+    padding: 0;
+}
+
+.rappelText {
+    text-align: right;
+    padding-top: 4%;
+}
+
+.rappelText p {
+    display: inline-block;
+}
+
+.rappelText rappelItem {
+    display: inline-block;
+}
+
+.tabAvancedRulesText {
+    vertical-align: middle !important;
+    text-align: right;
+    border-top: none !important;
+}
+
+.tabAvancedRules tr td {
+    border-top: none !important;
+}
+
+.tabAvancedRulesText2 {
+    margin-top: 6px;
+    margin-right: 3px;
+}
+
+input.jour {
+    margin-top: 12px;
+}
+
+button.btn 
+{
+    padding: 5px;
+    margin-top: 2px;
+}
+.tabAvancedRulesBtn{
+    vertical-align: bottom !important;
+}
+tr#tabAvancedRulesTr {
+    border-bottom: 1px solid;
+}
+.disable {
+    display: none;
+}
+#titreRules>h4 {
+    display:inline-block;
+    padding-left: 10px;
+}
+#titreRules>.btn{
+    margin-right: 25px;
+}
+#textListeRules{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 4px;
+    text-align: right;
+}
+
+#btn_removePanelRules{
+    margin-right: 2px;
+}
+#btn_SavePanelRules{
+    display: inline-block;
+    margin-right: 3px;
+}
+#btn_addPanelRules #btn_removePanelRules{
+    margin-top: 0px;    
+}
+
+button.btn {
+      margin-top: 0px; 
+}
+.add{
+    margin-bottom: 2px;
+}
